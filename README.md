@@ -8,6 +8,7 @@ Research on vertical take-off and landing aircraft that transition between hover
     - An adaptation of Airsim to VTOL aircraft
  - VTOL-Airsim tutorial  https://github.com/byu-magicc/vtol-airsim-tutorial.git
    - This is Seth Nielson's MS thesis where he describes how to setup and modify VTOL-Airsim
+ - VTOLsim - Python simulator for quadplanes https://github.com/byu-magicc/vtolsim
 
 ## Publications produced by team
  - J. Willis, J. Johnson and R. W. Beard, "State-Dependent LQR Control for a Tilt-Rotor UAV," 2020 American Control Conference (ACC), Denver, CO, USA, 2020, pp. 4175-4181, doi: 10.23919/ACC45564.2020.9147931. https://ieeexplore.ieee.org/document/9147931
